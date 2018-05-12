@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8965'
     url: http://www.gutenberg.org/2009/agents/8965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26884#The-Backwash-of-War--13-The-Human-Wreckage-of-the-Battlefield-as-Witnessed-by-an-American-Hos_
 gutenberg_bookshelf:
 - World War I
 - Banned Books from Anne Haight's list
